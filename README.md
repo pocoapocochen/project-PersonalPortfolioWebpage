@@ -1,5 +1,5 @@
 # project-PersonalPortfolioWebpage
-* Project topic from: freeCodeCamp - Legacy Front End Development Projects- Build a Personal Portfolio Webpage
+* Project topic from: freeCodeCamp - Legacy Front End Projects- Build a Personal Portfolio Webpage
 * [Live](https://pocoapocochen.github.io/project-PersonalPortfolioWebpage/) version
 
 ## User Story
