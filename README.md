@@ -1,6 +1,6 @@
 # project-PersonalPortfolioWebpage
 * Project topic from: freeCodeCamp - Legacy Front End Development Course
-* [Live](https://pocoapocochen.github.io/) version
+* [Live](https://pocoapocochen.github.io/project-PersonalPortfolioWebpage/) version
 
 ## User Story
 * I can access all of the portfolio webpage’s content just by scrolling.
